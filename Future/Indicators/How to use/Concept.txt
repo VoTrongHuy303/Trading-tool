@@ -1,0 +1,5 @@
+[ Liquidity ]: Thanh khoản/vị trí giao dịch nhiều 
+[ LPS ]: Điểm hỗ trợ bảo vệ xu hướng lên cuối cùng.
+[ LPSY ]: Điểm Kháng cự bảo vệ xu hướng xuống cuối cùng.
+[ High vol/Low vol ] : khối lượng giao dịch cao/ khối lượng giao dịch thấp
+[ Stopvolume ]: là khối lượng giao dịch xuất hiện ở đỉnh hoặc đáy của xu hướng để cản xu hướng/dừng xu hướng
